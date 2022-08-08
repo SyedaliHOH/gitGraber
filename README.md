@@ -98,7 +98,7 @@ Before to start **gitGraber** you need to modify the configuration file ``config
 | Service	| Link                                                                                                                  | 
 |---------|-----------------------------------------------------------------------------------------------------------------------|
 | GitHub  | *[How to create GitHub API token](https://github.com/settings/tokens)*                                                |
-| Discord | *[How to create Discord Webhook URL](https://help.dashe.io/en/articles/2521940-how-to-create-a-discord-webhook-url)* |
+| Discord | *[How to create Discord Webhook URL](Link Not Working)* |
 | Slack   | *[How to create Slack Webhook URL](https://get.slack.help/hc/en-us/articles/115005265063-Incoming-WebHooks-for-Slack)*|
 | Telegram | *[How to create Telegram bot](https://medium.com/@xabaras/sending-a-message-to-a-telegram-channel-the-easy-way-eb0a0b32968)*|
 
